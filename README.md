@@ -6,11 +6,7 @@ As a developer, you are given the task to replicate a picture as a website.
 
 1. Create a website that looks exactly like this one:
 
-<p align="center">
-<img height="300" src="https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true" />
-
-[click to open](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
-</p>
+![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
 
 2. Start the CSS and HTML from scratch, please do not re-use from another exercise because you will end up having a mess.
 3. Before starting to code make a drawing of the website will all the bootstrap components you will be using.
