@@ -4,7 +4,7 @@ As a developer, you are given the task to replicate a picture as a website.
 
 ## Instructions
 
-1. Create a website that looks exactly like this one:
+1. Create a website that looks exactly like [this one](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif):
 
 ![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
 
