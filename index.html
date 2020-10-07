@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+    <title>exercise-instagram-feed-bootstrap</title>
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+              <img src="https://i.pinimg.com/originals/7b/92/2c/7b922c00e98ecf048fda2186898706de.png" width="60" height="60" class="d-inline-block align-center" alt="">
+              Instagram
+            </a>
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModalCenter">
+            Create a New Post
+            </button>
+            
+            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">New Post</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="form-group">
+                    <label for="message-text" class="col-form-label">Message:</label>
+                    <textarea class="form-control" id="message-text"></textarea>
+                  </div>
+                  <div class="icon-modal">
+                    <img src="https://img2.freepng.es/20180403/ysw/kisspng-photographic-film-camera-black-and-white-clip-art-camera-drawing-5ac30f92aa6687.213141001522732946698.jpg" width="33" height="30" class="d-inline-block align-center" alt="">
+                    <img src="https://cdn.pixabay.com/photo/2020/04/29/16/51/navigation-5109688_960_720.png" width="30" height="33" alt="">
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="dropdown">
+                <button class="btn btn-Default dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img src="https://cdn.pixabay.com/photo/2013/07/12/13/50/cog-147414_1280.png" width="30" height="30" class="d-inline-block align-center" alt="">
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <a class="dropdown-item" href="#">LOG OUT</a>
+                </div>
+            </div>
+
+        </nav>
+    </div>
+</body>
+</html>
