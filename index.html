@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+        integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand offset-md-1" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav col-lg-8">
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <button class="btn btn-success" data-toggle="modal" data-target="#modalNewProject">Create new
+                        project</button>
+                </li>
+
+                <!-- Dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        <i class="fas fa-cog"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Actions</a>
+                        <a class="dropdown-item" href="#">Another Action</a>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Log Out</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="col-sm-12 div-pills bg-white py-1 px-auto" style="padding: 0">
+        <ul class="nav nav-pills offset-sm-6 offset-5 linkTab">
+            <li class="nav-item">
+                <a class="item nav-link active show bg-white border btn" data-toggle="tab" href="#group_img"><i
+                        class="fas fa-grip-horizontal"></i></a>
+            </li>
+            <li class="nav-item">
+                <a class="item nav-link bg-white border btn" data-toggle="tab" href="#list_img"><i
+                        class="fas fa-bars"></i></a>
+            </li>
+        </ul>
+    </div>
+    <div class="container-fluid">
+
+        <div class="tab-content" id="tabGeneral">
+            <div class="tab-pane fade show active bg-white" id="group_img" role="tabpanel" aria-labelledby="home-tab">
+                <div class="row bg-white">
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/kBZrg2OcrcOFJikffT/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/lIcHHVMxy54cvTAlnO/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/3o6nV4369S7Jb27ar6/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/mBXcQJHZVojluikr5Y/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/1pA2T6Et6MTQvDpPws/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/2C2qwckZzyiz8UzvzK/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/Z9tvqoD1SEQcomTVaK/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/51nMMK553EqfwMOyrF/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+                    <div class="mx-1 my-1">
+                        <img class="card-img-top-group" src="https://media.giphy.com/media/SXwe1kJp2M4LZY5MoR/giphy.gif"
+                            alt="Card image cap">
+                    </div>
+
+                </div>
+            </div>
+            <div class="tab-pane fade" id="list_img" role="tabpanel" aria-labelledby="profile-tab">
+                <!-- Card 1-->
+                <div class="card col-lg-6 px-0 py-0">
+                    <div class="card-header">
+                        <h5 class="card-title px-4 float-left">My first photo</h5>
+                        <p class="float-right text-muted">14/17</p>
+                    </div>
+                    
+                    <div class="card-body px-0 py-0 mx-0 my-0">
+                        <img class="card-img-top"
+                            src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg"
+                            alt="Card image cap">
+                        <label class="px-4" for="">23 Likes</label>
+                        <p class="card-text px-4">This is my first photo of the freed, this is a multi line commnent for testing purposes. 
+                                                  I am learning to code with <strong>#BreathCode</strong>.</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="row col-md-8 col-sm-10 col-lg-6">
+                                <i class="mt-1 far fa-heart text-muted"></i>
+                                <h5 class="col-sm-10 col-md-8 col-lg-10 text-muted">Comment....</h5>
+                            </div>
+                            <div class="col offset-lg-5 offset-md-3 col-sm-1 float-right">
+                                <i class="float-right fas fa-ellipsis-v text-muted"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Card 1-->
+
+                <!-- Card 2-->
+               <div class="card col-lg-6 px-0 py-0">
+                    <div class="card-header">
+                        <h5 class="card-title px-4 float-left">Some cute thing</h5>
+                        <p class="float-right text-muted">15/17</p>
+                    </div>
+                    
+                    <div class="card-body px-0 py-0 mx-0 my-0">
+                        <img class="card-img-top"
+                            src="https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg"
+                            alt="Card image cap">
+                        <label class="px-4" for="">28 Likes</label>
+                        <p class="card-text px-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit<strong>#BreathCode</strong>.</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="row col-md-8 col-sm-10 col-lg-6">
+                                <i class="mt-1 far fa-heart text-muted"></i>
+                                <h5 class="col-sm-10 col-md-8 col-lg-10 text-muted">Comment....</h5>
+                            </div>
+                            <div class="col offset-lg-5 offset-md-3 col-sm-1 float-right">
+                                <i class="float-right fas fa-ellipsis-v text-muted"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Card 2-->
+
+                <!-- Card 3-->
+               <div class="card col-lg-6 px-0 py-0">
+                    <div class="card-header">
+                        <h5 class="card-title px-4 float-left">My second photo</h5>
+                        <p class="float-right text-muted">16/17</p>
+                    </div>
+                    
+                    <div class="card-body px-0 py-0 mx-0 my-0">
+                        <img class="card-img-top"
+                            src="https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg"
+                            alt="Card image cap">
+                        <label class="px-4" for="">100 Likes</label>
+                        <p class="card-text px-4">Provident ipsam libero voluptatibus earum at, reprehenderit adipisci.
+                        Ipsam aliquam eos molestiae impedit optio quae obcaecati. <strong>#BreathCode</strong>.</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="row col-md-8 col-sm-10 col-lg-6">
+                                <i class="mt-1 far fa-heart text-muted"></i>
+                                <h5 class="col-sm-10 col-md-8 col-lg-10 text-muted">Comment....</h5>
+                            </div>
+                            <div class="col offset-lg-5 offset-md-3 col-sm-1 float-right">
+                                <i class="float-right fas fa-ellipsis-v text-muted"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Card 3-->
+
+                <!-- Card 4-->
+               <div class="card col-lg-6 px-0 py-0">
+                    <div class="card-header">
+                        <h5 class="card-title px-4 float-left">My second photo</h5>
+                        <p class="float-right text-muted">17/17</p>
+                    </div>
+                    
+                    <div class="card-body px-0 py-0 mx-0 my-0">
+                        <img class="card-img-top"
+                            src="https://images.pexels.com/photos/365459/pexels-photo-365459.jpeg"
+                            alt="Card image cap">
+                        <label class="px-4" for="">200 Likes</label>
+                        <p class="card-text px-4">Because no photo feed is cool without some food on it! <strong>#BreathCode</strong>.</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="row col-md-8 col-sm-10 col-lg-6">
+                                <i class="mt-1 far fa-heart text-muted"></i>
+                                <h5 class="col-sm-10 col-md-8 col-lg-10 text-muted">Comment....</h5>
+                            </div>
+                            <div class="col offset-lg-5 offset-md-3 col-sm-1 float-right">
+                                <i class="float-right fas fa-ellipsis-v text-muted"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End Card 4-->
+
+
+
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalNewProject" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-12">
+                            <textarea name="" id="" cols="64" rows="5"></textarea>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-light border"><i class="fas fa-camera"></i></button>
+                            <button class="btn btn-light border"><i class="fas fa-map-marker-alt"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-light border" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-success" data-dismiss="modal">Save changes</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

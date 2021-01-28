@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+.card{
+    margin: 40px auto;
+}
+
+.fas{
+    color:black;
+}
+
+.group_img img{
+    max-height: 80%;
+}
+
+.nav-item  .active{
+  background-color: #dee2e6!important;
+  color: white;
+}
