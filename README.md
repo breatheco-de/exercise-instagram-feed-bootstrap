@@ -2,6 +2,17 @@
 
 As a developer, you are given the task to replicate a picture as a website.
 
+## ¿How do you start this project?
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed-bootstrap.git
+
+or
+
+b) You can clone the repository locally:
+
+```sh
+$ git clone https://github.com/breatheco-de/exercise-instagram-feed-bootstrap.git
+```
+
 ## Instructions
 
 1. Create a website that looks exactly like [this one](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif):
