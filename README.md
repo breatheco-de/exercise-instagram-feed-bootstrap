@@ -19,7 +19,7 @@ As a developer, you are given the task to replicate a picture as a website.
 
 You have the online lesson about bootstrap and the cheat sheet about bootstrap in the assets section. We also recommend [Net Ninja's video tutorials on bootstrap](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
 
-### What to do if you are stuck??
+### What to do if you are stuck?
 
 - Clean the cache (always refresh with command+shift+R), using the incognito mode on Google Chrome. 
 - Look in google for solutions. 
