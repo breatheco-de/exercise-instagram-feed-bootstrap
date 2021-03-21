@@ -8,7 +8,18 @@ As a developer, you are given the task to replicate a picture as a website.
 
 ![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
 
-2. Start the CSS and HTML from scratch, please do not re-use from another exercise because you will end up having a mess.
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
+
 3. Before starting to code make a drawing of the website will all the bootstrap components you will be using.
 4. Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweek, if you don't understand the names of the classes used in the component you will end-up hitting a wall and being frustrated.
 5. Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/4.1/utilities), take your time to read them all because it will make your life 99% easier.
