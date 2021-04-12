@@ -2,6 +2,7 @@
 
 As a developer, you are given the task to replicate a picture as a website.
 
+## 🌱  How to start this project
 
 Do not clone this repository.
 
