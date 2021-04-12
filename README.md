@@ -2,18 +2,17 @@
 
 As a developer, you are given the task to replicate a picture as a website.
 
-## ¿How do you start this project?
 
-You have two options:
+Do not clone this repository.
 
-a) Open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-feed-bootstrap.git
+1. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
 
-b) You can clone the repository locally:
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).
 
+b) If working locally type the following command from your command line: 
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-instagram-feed-bootstrap.git
-```
-
+$ git clone https://github.com/4GeeksAcademy/html-hello
+````
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## Instructions
