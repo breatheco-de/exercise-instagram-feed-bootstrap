@@ -23,7 +23,7 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 2. Before starting to code make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
 
-3. Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweek, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
+3. Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweak, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
 
 4. Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/4.1/utilities), take your time to read them all because it will make your life 99% easier.
 
