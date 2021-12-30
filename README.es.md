@@ -35,18 +35,19 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
 
-### ¿Qué hacer si estás atascado?
+### Qué hacer si estás atascado
 
-- Limpia el caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
-- Busca soluciones en Google. 
+
+- Limpia el  caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
+- Busca soluciones en google. 
 - Habla con otros estudiantes. 
 - Habla con desarrolladores senior que conozcas. 
 - Habla con mentores en slack.
 - No tengas miedo a preguntar. 
 
-### ¿Qué **NO** hacer si estás atascado?
+### Qué **NO** hacer si estás atascado
 
-- No te frustres y pienses que no eres bueno en esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si eres bueno en algo que no sabes? 
+- No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
-- No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tu seas de bueno para buscar en él, habla con otros estudiantes o con tus instructores.
+- No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tú sepas buscar en él, habla con otros estudiantes o con tus instructores.
 - Cambia la estrategia: Einstein dijo una vez, si haces lo mismo obtendrás los mismos resultados.
