@@ -8,7 +8,7 @@
 	"duration" : 6,
 	"difficulty": "junior",
 	"technologies": ["html", "css", "layouts", "bootstrap"],	
-	"description" : "This is an improoved version of the first instagram exercise, now using bootstrap.",
+	"description" : "This is an improved version of the first instagram exercise, now using bootstrap.",
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
