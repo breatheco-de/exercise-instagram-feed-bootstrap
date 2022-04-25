@@ -10,6 +10,7 @@ Do not clone this repository. The first step to start coding is cloning the [htm
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).
 
 b) If working locally type the following command from your command line: 
+
 ```sh
 $ git clone https://github.com/4GeeksAcademy/html-hello
 
