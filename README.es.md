@@ -1,5 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) The Instagram Photo Feed (con Bootstrap)
-
+<!-- hide -->
+# The Instagram Photo Feed (con Bootstrap)
+<!-- endhide -->
 Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 ## 🌱  ¿Cómo iniciar este proyecto?
