@@ -10,6 +10,7 @@ No clones este repositorio. El primer paso para comenzar a codificar es clonar e
 a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+
 ```sh
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
