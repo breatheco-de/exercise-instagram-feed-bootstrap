@@ -47,5 +47,5 @@ You have the online lesson about bootstrap and the cheat sheet about bootstrap i
 ### What **NOT** to do if you are stuck??
 
 - Don't get frustrated and think you are not good at this: All the developers get stuck all the time, ask around! How do you know if you are good at something that you don't know? Coding is a science, facts matter and you have no facts. 
-- Don't Keep wondering around for hours without seeking help: Google is only as useful as you are good at googling, please speak to other students or your instructors. 
+- Don't keep wondering around for hours without seeking help: Google is only as useful as you are good at googling, please speak to other students or your instructors. 
 - Change strategy: Einstein once said, if you do the same stuff you will get the same results.
