@@ -47,7 +47,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 - Habla con mentores en slack.
 - No tengas miedo a preguntar. 
 
-### ¿Que **NO** hacer si estás atascado?
+¿Que NO hacer si estás atascado?
 
 - No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
