@@ -19,9 +19,9 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 ## Instructions
 
-1. Create a website that looks exactly like [this one](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif):
+1. Create a website that looks exactly like [this one](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif):
 
-![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
+![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true)
 
 2. Before starting to code make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
 
