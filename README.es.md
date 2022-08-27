@@ -1,55 +1,26 @@
-<!-- hide -->
-# The Instagram Photo Feed (con Bootstrap)
-<!-- endhide -->
-Como programador, tienes la tarea de replicar una imagen como un sitio web.
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
-## 🌱  ¿Cómo iniciar este proyecto?
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+El boilerplate más básico para cualquier estudiante de 4Geeks Academy utilizando el editor de código [gitpod.io](gitpod.io).
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+## ¿Qué hacer a continuación?
+
+Crea un archivo `index.html` con [la estructura básica de HTML](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) y ve el resultado en vivo corriendo un servidor web utilizando el siguiente comando:
 
 ```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+$ pip3 install flask && python3 server.py
 ```
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
-## Instrucciones
+- Puedes crear tantos archivos HTML cómo desees
+- También puedes crear archivos CSS e importarlos en tu página web utilizando una etiqueta `<link>` ubicándola entre las etiquetas `<head></head>`, de la siguiente manera:
 
-1. Crea un sitio web que se vea exactamente como este:
-
-<p align="center">
-<img height="300" src="https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true" />
-
-[click para abrir](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
-</p>
-
-2. Inicia el CSS y el HTML desde cero, no lo reutilices en otro ejercicio porque terminarás teniendo un desastre.
-3. Antes de comenzar a programar haz un dibujo del sitio web con todos los componentes de bootstrap que usarás.
-4. Una vez hayas identificado todos los componentes, comienza con el navbar (desde arriba hasta abajo) e intenta adaptar los ejemplos que encuentres en internet a lo que se te pide en la imagen. No copies y pegues solamente, entiende y procesa, si no entiendes los nombres de las clases usadas en el componente terminarás pegándote contra una pared y frustrado.
-5. Usa todos los posibles [bootstrap utilities (helpers)](https://getbootstrap.com/docs/4.1/utilities), toma el tiempo de leerlos todos porque harán tu vida 99% más fácil.
-6. Los proyectos tienen que ser 100% responsive utilizando el sistema de grillas de bootstrap.
-7. Usa todos los posibles componentes de bootstrap, la idea es que los aprendas para poder reutilizarlos durante el resto de tu vida.
-
-### Recursos
-
-Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
-
-### ¿Que hacer si estás atascado?
-
-
-- Limpia el  caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
-- Busca soluciones en google. 
-- Habla con otros estudiantes. 
-- Habla con desarrolladores senior que conozcas. 
-- Habla con mentores en slack.
-- No tengas miedo a preguntar. 
-
-### ¿Que **NO** hacer si estás atascado?
-
-- No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
-La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
-- No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tú sepas buscar en él, habla con otros estudiantes o con tus instructores.
-- Cambia la estrategia: Einstein dijo una vez, si haces lo mismo obtendrás los mismos resultados.
+```html
+<head>
+  ...
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  ...
+</head>
+```
