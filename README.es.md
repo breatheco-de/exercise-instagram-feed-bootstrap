@@ -24,6 +24,17 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 <img height="300" src="https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true?raw=true" />
 
 [click para abrir](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true?raw=true)
+
+Aqui puedes ver cada componente separado:
+
++ [El grid con tres imagenes por fila](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview1.png?raw=true?raw=true)
+
++ [El grid con una imagen por fila](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview2.png?raw=true?raw=true)
+
++ [El modal](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview3.png?raw=true?raw=true)
+
++ [El dropdown](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview4.png?raw=true?raw=true)
+
 </p>
 
 2. Inicia el CSS y el HTML desde cero, no lo reutilices en otro ejercicio porque terminarás teniendo un desastre.

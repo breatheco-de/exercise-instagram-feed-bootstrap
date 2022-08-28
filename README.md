@@ -23,6 +23,17 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 ![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true)
 
+
+Here you can watch each component separately:
+
++ [The grid with three images by row](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview1.png?raw=true?raw=true)
+
++ [The grid with one image by row](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview2.png?raw=true?raw=true)
+
++ [The modal](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview3.png?raw=true?raw=true)
+
++ [The dropdown](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview4.png?raw=true?raw=true)
+
 2. Before starting to code make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
 
 3. Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweak, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
