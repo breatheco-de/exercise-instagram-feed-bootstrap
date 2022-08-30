@@ -23,6 +23,7 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 ![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true)
 
+[Click here to see the image bigger](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true)
 
 Here you can watch each component separately:
 
