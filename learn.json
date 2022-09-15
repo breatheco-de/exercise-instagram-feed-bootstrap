@@ -16,5 +16,7 @@
 		{ "badge": "select-everything", "points": 10 },
 		{ "badge": "be-dry", "points": 10 },
 		{ "badge": "abc", "points": 10 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
