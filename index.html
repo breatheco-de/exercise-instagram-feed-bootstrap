@@ -14,40 +14,42 @@
 </head>
 
 <body>
+    <style>
+        .nav-pill .nav-link{
+            color: grey;
+        }
+        .nav-pill .nav-link.active{
+            color: blue;
+        }
+    </style>
     <!-- Navbar -->
     <nav class="navbar navbar-light bg-light py-3">
-        <div class="container">
-            <div class="row w-100">
-                <div class="col-9">
+        <div class="container-fluid">
+            <div class="d-flex w-100 justify-content-between">
+                <div>
                     <i class="fa-brands fa-instagram fa-xl"></i>
                     <h5 class="d-inline-block fs-5">Instagram</h5>
                 </div>
-                <div class="col-3">
+                <div class="d-flex align-right justify-content-end">
                     <!-- Button trigger modal -->
-                    <div class="row">
-                        <div class="col-8">
-                            <button type="button" class="btn btn-success" data-bs-toggle="modal"
-                                data-bs-target="#exampleModal">
-                                Create a new post
-                            </button>
-                        </div>
-                        <div class="col-4">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
-                                    data-bs-toggle="dropdown" aria-expanded="false">
-                                    <i class="fa-solid fa-gear"></i>
-                                </button>
-                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Profile</a></li>
-                                    <li><a class="dropdown-item" href="#">Accesibility</a></li>
-                                    <li><a class="dropdown-item" href="#">Privacy and Data</a></li>
-                                    <li>
-                                        <hr class="dropdown-divider">
-                                    </li>
-                                    <li><a class="dropdown-item text-danger" href="#">Log out</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                    <button type="button" class="btn btn-success me-2" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal">
+                        Create a new post
+                    </button>
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fa-solid fa-gear"></i>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
+                            <li><a class="dropdown-item" href="#">Profile</a></li>
+                            <li><a class="dropdown-item" href="#">Accesibility</a></li>
+                            <li><a class="dropdown-item" href="#">Privacy and Data</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item text-danger" href="#">Log out</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -85,15 +87,15 @@
 
     <!-- Toggle Grid -->
     <div class="container-fluid p-2">
-        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+        <ul class="nav nav-pill justify-content-center" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
+                <a class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
                     role="tab" aria-controls="home" aria-selected="true"><i
-                        class="fa-solid fa-table-cells"></i></button>
+                        class="fa-solid fa-table-cells"></i></a>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
-                    role="tab" aria-controls="profile" aria-selected="false"><i class="fa-solid fa-square"></i></button>
+                <a class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
+                    role="tab" aria-controls="profile" aria-selected="false"><i class="fa-solid fa-square"></i></a>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
@@ -119,12 +121,12 @@
             <div class="tab-pane fade overflow-hidden" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="row my-4">
                     <div class="col-6 mx-auto border rounded p-0">
-                        <div class="row p-1">
-                            <div class="col-10 fs-4">My Crazy dog Spark!</div>
-                            <div class="col-2 fs-5 align-middle">08/26</div>
+                        <div class="d-flex p-2">
+                            <div class="w-100 fs-4">My Crazy dog Spark!</div>
+                            <small class="align-bottom">08/26</small>
                         </div>
                         <img style="object-fit: cover;" src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb" class="img-fluid w-100 col-12" alt=""/>
-                        <div class="row p-1">
+                        <div class="p-2">
                             <strong>204 Likes</strong>
                             <p>This is an example of a very good photo that you can post on instagram</p>
                         </div>
