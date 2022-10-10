@@ -3,7 +3,7 @@
 	"slug" : "instagram-feed-bootstrap",
 	"status": "published",
 	"translations": ["es", "en"],
-	"solution": "https://bitbucket.org/codingacademy/instagram-with-bootstrap/",
+	"solution": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true",
 	"duration" : 6,
 	"difficulty": "junior",
