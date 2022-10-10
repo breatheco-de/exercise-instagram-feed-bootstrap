@@ -7,7 +7,7 @@ Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io/#https://github.com/4GeeksAcademy/html-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 
