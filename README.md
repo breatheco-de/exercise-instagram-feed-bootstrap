@@ -7,14 +7,14 @@ As a developer, you are given the task to replicate a picture as a website.
 
 Do not clone this repository. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello).
 
 b) If working locally type the following command from your command line: 
 
 ```sh
 $ git clone https://github.com/4GeeksAcademy/html-hello
-
 ````
+
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## Instructions
