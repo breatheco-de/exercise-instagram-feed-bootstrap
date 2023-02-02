@@ -1,6 +1,7 @@
 <!-- hide -->
 # The Instagram Photo Feed (with Bootstrap)
 <!-- endhide -->
+
 As a developer, you are given the task to replicate a picture as a website.
 
 ## 🌱  How to start this project
@@ -13,7 +14,7 @@ b) If working locally type the following command from your command line:
 
 ```sh
 $ git clone https://github.com/4GeeksAcademy/html-hello
-````
+```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
@@ -35,14 +36,13 @@ Here you can watch each component separately:
 
 + [The dropdown](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview4.png?raw=true?raw=true)
 
-- [ ] Before starting to code make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
+- [ ] Before starting to code, make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
 
-- [ ] Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweak, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
+- [ ] Once the components are identified, start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweak, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
 
 - [ ] Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.1/layout/utilities/), take your time to read them all because it will make your life 99% easier.
 
 - [ ] The projects have to be 100% responsive using the bootstrap grid system.
-
 
 ### Resources
 
