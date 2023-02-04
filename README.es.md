@@ -25,7 +25,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 [click para abrir](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true?raw=true)
 
-Aqui puedes ver cada componente separado:
+Aquí puedes ver cada componente separado:
 
 + [El grid con tres imagenes por fila](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview1.png?raw=true?raw=true)
 
