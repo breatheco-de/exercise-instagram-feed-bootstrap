@@ -7,7 +7,7 @@ As a developer, you are given the task to replicate a picture as a website.
 
 Do not clone this repository because we are going to be using a different template.
 
-The first step to start coding is opening the `html template repository` using a provisioning tool like Codespaces or Gitpod (recommended) or cloning it on your local computer. This is the repository you need to open:
+We recommend to open the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it to your local computer using the `git clone` command. This is the repository you need to open:
 
 ```
 https://github.com/4GeeksAcademy/html-hello
