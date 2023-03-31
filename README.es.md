@@ -5,12 +5,14 @@ Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 ## 🌱  ¿Cómo iniciar este proyecto?
 
-Recomendamos que abras este repositorio utilizando una nube de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
+No abras este repositorio, utilizaremos otro template para empezar a programar.
+
+Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
 Este es el repositorio que debes abrir:
 
 ```
-https://github.com/breatheco-de/exercise-instagram-feed-bootstrap
+https://github.com/4GeeksAcademy/html-hello
 ```
 
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
