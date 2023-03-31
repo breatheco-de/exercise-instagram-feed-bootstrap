@@ -16,6 +16,7 @@ https://github.com/4GeeksAcademy/html-hello
 ```
 
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
+
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
