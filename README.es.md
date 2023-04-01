@@ -5,15 +5,18 @@ Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 ## 🌱  ¿Cómo iniciar este proyecto?
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+No abras este repositorio, utilizaremos otro template para empezar a programar.
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io/#https://github.com/4GeeksAcademy/html-hello).
+Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que debes abrir:
 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
+https://github.com/4GeeksAcademy/html-hello
+```
+
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
+
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
