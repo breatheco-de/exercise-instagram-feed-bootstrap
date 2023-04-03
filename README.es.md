@@ -1,23 +1,22 @@
 <!-- hide -->
 # The Instagram Photo Feed (con Bootstrap)
 <!-- endhide -->
-Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
-## 🌱  ¿Cómo iniciar este proyecto?
+## 🌱 Cómo comenzar este proyecto
 
-No abras este repositorio, utilizaremos otro template para empezar a programar.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos que abras el repositorio `html template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-Este es el repositorio que debes abrir:
+Este es el repositorio que necesitas abrir o clonar:
 
 ```
 https://github.com/4GeeksAcademy/html-hello
 ```
 
-**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
+**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Instrucciones
 
@@ -67,3 +66,5 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
 - No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tú sepas buscar en él, habla con otros estudiantes o con tus instructores.
 - Cambia la estrategia: Einstein dijo una vez, si haces lo mismo obtendrás los mismos resultados.
+
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
