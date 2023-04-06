@@ -4,18 +4,21 @@
 
 Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
-## 🌱  ¿Cómo iniciar este proyecto?
+## 🌱 Cómo comenzar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io/#https://github.com/4GeeksAcademy/html-hello).
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que necesitas abrir o clonar:
 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+https://github.com/4GeeksAcademy/html-hello
+```
+
+**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
+
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Instrucciones
 
@@ -65,3 +68,5 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
 - No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tú sepas buscar en él, habla con otros estudiantes o con tus instructores.
 - Cambia la estrategia: Einstein dijo una vez, si haces lo mismo obtendrás los mismos resultados.
+
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
