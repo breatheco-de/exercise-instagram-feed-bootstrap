@@ -15,8 +15,8 @@
 </head>
 
 <body>
-  <!-- Barra superior con logo, boton y menu dropdown -->
 
+  <!-- Barra superior con logo, boton y menu dropdown -->
   <nav class="navbar navbar-expand-sm navbar-light bg-light" aria-label="Third navbar example">
     <div class="container-fluid">
       <a class="navbar-brand" href="#"><i class="fa-brands fa-instagram fa-2xl"></i> Instagram</a>
@@ -46,28 +46,148 @@
   </nav>
   <!-- fin barra superior -->
 
-  <div class="row">
-    <div class="container-fluid">
-      <ul class="nav nav-tabs justify-content-center">
-        <li class="nav-item" role="presentation">
-          <a class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
-            type="button" role="tab" aria-controls="pills-home" aria-selected="true"><i class="fa-light fa-table-cells fa"></i></a>
-          <a class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><i class="fa-sharp fa-solid fa-square"></i></a>
-        </li>
-      </ul>
-      <div class="tab-content" id="pills-tabContent">
-        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-          This is some placeholder content the Home tab's associated content.
-          Clicking another tab will toggle the visibility of this one for the
-          next. The tab JavaScript swaps classes to control the content
-          visibility and styling. You can use it with tabs, pills, and any
-          other .nav-powered navigation.
+  <!-- Pestañas para grid y foto unica -->
+  <nav>
+    <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
+      <button class="nav-link active" id="nav-grid-tab" data-bs-toggle="tab" data-bs-target="#nav-grid" type="button"
+        role="tab" aria-controls="nav-grid" aria-selected="true"><i class="fa-light fa-table-cells fa"></i>
+      </button>
+
+      <button class="nav-link" id="nav-squared-tab" data-bs-toggle="tab" data-bs-target="#nav-squared" type="button"
+        role="tab" aria-controls="nav-squared" aria-selected="false"><i class="fa-sharp fa-solid fa-square"></i>
+      </button>
+    </div>
+  </nav>
+  <!-- Fin Pestañas para grid y foto unica -->
+
+  <div class="tab-content" id="nav-tabContent">
+
+    <!-- Ventana grid de 9 fotos -->
+    <div class="tab-pane fade show active" id="nav-grid" role="tabpanel" aria-labelledby="nav-grid-tab" tabindex="0">
+      <div class="container gap-5">
+        <div class="row my-4">
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-1.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-2.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-3.jpg"
+              alt="">
+          </div>
         </div>
-        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-          This is some placeholder content the Home tab's associated content.
+
+        <div class="row my-4">
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-4.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-5.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-6.jpg"
+              alt="">
+          </div>
+        </div>
+
+        <div class="row my-4">
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-7.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-8.jpg"
+              alt="">
+          </div>
+          <div class="col">
+            <img class="img-fluid" src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-10.jpg"
+              alt="">
+          </div>
+        </div>
+      </div>
+      <p class="text-center">Imagenes cedidas por Dzoom 2023 para Geeks</p>
+    </div>
+    <!-- Fin Ventana grid de 9 fotos -->
+
+    <!-- Ventana de foto unica -->
+    <div class="tab-pane fade" id="nav-squared" role="tabpanel" aria-labelledby="nav-squared-tab" tabindex="0">
+      <div class="container mt-4">
+        <div class="row">
+          <div class="col-md-6 mx-auto">
+            <div class="card">
+              <div class="card-header d-flex justify-content-between align-items-center">
+                <h4>Señor con cara de perro</h4>
+                <h6>18/26</h6>
+              </div>
+              <div class="card-body p-0">
+                <img src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-1.jpg" class="w-100"
+                  alt="Viejo gruño">
+              </div>
+              <div class="card-footer">
+                <div class="d-flex">
+
+                </div>
+                <p class="m-0 mt-2"><strong>122.204 Likes</strong></p>
+                <p class="m-0 mt-2">Me vino la factura de la luz y esta fue la cara de cabreo que se me quedo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container mt-4">
+        <div class="row">
+          <div class="col-md-6 mx-auto">
+            <div class="card">
+              <div class="card-header d-flex justify-content-between align-items-center">
+                <h4>La rosa de mi rosal no pincha</h4>
+                <h6>25/35</h6>
+              </div>
+              <div class="card-body p-0">
+                <img src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-2.jpg" class="w-100"
+                  alt="Rosa olorosa">
+              </div>
+              <div class="card-footer">
+                <div class="d-flex">
+
+                </div>
+                <p class="m-0 mt-2"><strong>325 Likes</strong></p>
+                <p class="m-0 mt-2">Una rosa es una rosa es...</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container mt-4">
+        <div class="row">
+          <div class="col-md-6 mx-auto">
+            <div class="card">
+              <div class="card-header d-flex justify-content-between align-items-center">
+                <h4>Perro enfadado consigo mismo...</h4>
+                <h6>57/62</h6>
+              </div>
+              <div class="card-body p-0">
+                <img src="https://www.dzoom.org.es/wp-content/uploads/2011/08/insp-cuadradas-10.jpg" class="w-100"
+                  alt="Perro enfadado">
+              </div>
+              <div class="card-footer">
+                <div class="d-flex">
+  
+                </div>
+                <p class="m-0 mt-2"><strong>937 Likes</strong></p>
+                <p class="m-0 mt-2">Soy pequeñito pero matón</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+    <!-- Fin Ventana de foto unica -->
+  </div>
   </div>
 </body>
 
