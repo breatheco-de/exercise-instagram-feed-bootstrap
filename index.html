@@ -22,9 +22,42 @@
       <a class="navbar-brand" href="#"><i class="fa-brands fa-instagram fa-2xl"></i> Instagram</a>
       <form>
         <ul class="navbar-nav me-auto mb-2 mb-sm-0">
-          <button type="button" class="btn btn-success">
+          <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
             Create a new post
           </button>
+
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalLabel">Create a new post</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <p>Caption:</p>
+                  <textarea class="form-control" aria-label="With textarea">Add the caption of your post here</textarea>
+
+                  <div class="row p-2">
+
+                    <button class="col-1 border rounded p-1 m-1 btn-light">
+                      <i class="fa-solid fa-camera"></i>
+                    </button>
+                    <button class="col-1 border rounded p-1 m-1 btn-light">
+                      <i class="fa-solid fa-location-dot"></i>
+                    </button>
+                  </div>
+
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary bg-success">Publish</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <li class="nav-item dropdown bg-secondary rounded mx-5">
             <a class="nav-link dropdown-toggle mx-1 text-white" href="#" id="dropdown03" data-bs-toggle="dropdown"
               aria-expanded="false"><i class="fa-light fa-gear fa me-2"></i></a>
@@ -133,7 +166,7 @@
 
                 </div>
                 <p class="m-0 mt-2"><strong>122.204 Likes</strong></p>
-                <p class="m-0 mt-2">Me vino la factura de la luz y esta fue la cara de cabreo que se me quedo.</p>
+                <span class="m-0 mt-2">Me vino la factura de la luz y esta fue la cara que me quedo.</span>
               </div>
             </div>
           </div>
@@ -156,13 +189,13 @@
 
                 </div>
                 <p class="m-0 mt-2"><strong>325 Likes</strong></p>
-                <p class="m-0 mt-2">Una rosa es una rosa es...</p>
+                <span class="m-0 mt-2">Una rosa es una rosa es...</span>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="container mt-4">
+      <div class="container mt-4 mb-4">
         <div class="row">
           <div class="col-md-6 mx-auto">
             <div class="card">
@@ -176,10 +209,10 @@
               </div>
               <div class="card-footer">
                 <div class="d-flex">
-  
+
                 </div>
                 <p class="m-0 mt-2"><strong>937 Likes</strong></p>
-                <p class="m-0 mt-2">Soy pequeñito pero matón</p>
+                <span class="m-0 mt-2">Soy pequeñito pero matón</span>
               </div>
             </div>
           </div>
