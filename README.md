@@ -38,7 +38,7 @@ Here you can watch each component separately:
 
 + [The dropdown](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview4.png?raw=true?raw=true)
 
-- [ ] Initialize the HTML and CSS from scratch, don't copy and paste it from another exercise because you may end up making a mess.
+- [ ] Initialise the HTML and CSS from scratch, don't copy and paste it from another exercise because you may end up making a mess.
 - [ ] Before starting to code, make a drawing of the website with all the bootstrap components you will be using. Use as many components as you can, you will probably reuse them for the rest of your life!
 - [ ] Once the components are identified, start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweak, if you don't understand the names of the classes used in the component you will end up hitting a wall and being frustrated.
 - [ ] Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.1/layout/utilities/), take your time to read them all because it will make your life 99% easier.
@@ -61,7 +61,7 @@ You have the online lesson about bootstrap and the cheat sheet about bootstrap i
 
 - Don't get frustrated and think you are not good at this: All the developers get stuck all the time, ask around! How do you know if you are good at something that you don't know? Coding is a science, facts matter and you have no facts. 
 
-- Don't keep wandering around for hours without seeking help: Google is only as useful as you are good at googling, please speak to other students or your instructors. 
+- Don't keep wandering around for hours without seeking help: Google is only useful if you are good at googling, please speak to other students or your instructors. 
 
 - Change strategy: Einstein once said, if you do the same, you will get the same results.
 
