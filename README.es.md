@@ -50,7 +50,7 @@ Aquí puedes ver cada componente separado:
 
 Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
 
-### ¿Que hacer si estás atascado?
+### ¿Qué hacer si estás atascado?
 
 - Limpia el caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
 - Busca soluciones en Google. 
@@ -60,7 +60,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 - No tengas miedo a preguntar. 
 
 
-### ¿Que **NO** hacer si estás atascado?
+### ¿Qué **NO** hacer si estás atascado?
 
 - No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
