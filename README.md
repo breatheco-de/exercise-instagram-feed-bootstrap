@@ -57,7 +57,7 @@ You have the online lesson about bootstrap and the cheat sheet about bootstrap i
 - Talk to the other students. 
 - Talk to senior developers you know. 
 - Talk to the mentors over slack.
-- Don't be afraid to ask!
+- Don't be afraid to ask!!
 
 ### What **NOT** to do if you are stuck??
 
