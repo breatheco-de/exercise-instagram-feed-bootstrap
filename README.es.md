@@ -49,6 +49,7 @@ Aquí puedes ver cada componente separado:
 ## 📒 Recursos
 
 Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
+Puedes revisar el Bootstrap 5 crash Course de Web Dev Simplified. Recomendadisimo si aún sigues sin entender el video anterior (https://www.youtube.com/watch?v=Jyvffr3aCp0&t=2374s)
 
 ### ¿Que hacer si estás atascado?
 
