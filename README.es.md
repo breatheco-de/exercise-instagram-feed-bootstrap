@@ -40,9 +40,9 @@ Aquí puedes ver cada componente separado:
 
 </p>
 
-- [ ] Inicia el HTML y el CSS desde cero, no lo reutilices desde otro ejercicio porque terminarás teniendo un desastre.
+- [ ] Inicia HTML y CSS desde cero, no lo reutilices desde otro ejercicio porque terminarás teniendo un desastre.
 - [ ] Antes de comenzar a programar haz un dibujo del sitio web con todos los componentes de bootstrap que usarás. Usa todos los posibles componentes de bootstrap, la idea es que los aprendas para poder reutilizarlos durante el resto de tu vida.
-- [ ] Una vez hayas identificado todos los componentes, comienza con el navbar (desde arriba hasta abajo) e intenta adaptar los ejemplos que encuentres en internet a lo que se te pide en la imagen. No copies y pegues solamente, entiende y procesa, si no entiendes los nombres de las clases usadas en el componente, terminarás pegándote contra una pared y frustrado.
+- [ ] Una vez hayas identificado todos los componentes, comienza con el navbar (trabajando con los componentes desde arriba hasta abajo) e intenta adaptar los ejemplos que encuentres en internet a lo que se te pide en la imagen. No copies y pegues solamente, entiende y procesa, si no entiendes los nombres de las clases usadas en el componente, terminarás pegándote contra una pared y frustrado.
 - [ ] Usa todos los posibles [bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.0/layout/utilities/), toma el tiempo de leerlos todos porque harán tu vida 99% más fácil.
 - [ ] Los proyectos tienen que ser 100% responsive utilizando el sistema de grid de bootstrap.
 
