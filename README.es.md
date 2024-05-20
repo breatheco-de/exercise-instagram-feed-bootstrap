@@ -2,7 +2,7 @@
 # El Feed de Fotos de Instagram (con Bootstrap)
 <!-- endhide -->
 
-Como programador, tienes la tarea de replicar una imagen como un sitio web.
+Como programador, tienes la tarea de replicar una imagen como en un sitio web.
 
 ## 🌱 Cómo comenzar este proyecto
 
