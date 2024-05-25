@@ -2,7 +2,7 @@
 # The Instagram Photo Feed (with Bootstrap)
 <!-- endhide -->
 
-As a developer, you are given the task to replicate a picture as a website.
+As a developer, you are given the task to replicate a picture as a clean website.
 
 ## 🌱 How to start this project
 
