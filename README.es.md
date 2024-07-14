@@ -62,7 +62,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 
 ### ¿Que **NO** hacer si estás atascado?
 
-- No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
+- No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo. ¡Pregunta!, ¿cómo sabes si sirves o no en algo que no sabes? 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
 - No te cuestiones por horas sin buscar ayuda: Google solo es tan útil como tú sepas buscar en él, habla con otros estudiantes o con tus instructores.
 - Cambia la estrategia: Einstein dijo una vez, si haces lo mismo obtendrás los mismos resultados.
