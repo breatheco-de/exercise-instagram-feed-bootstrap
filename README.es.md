@@ -41,18 +41,18 @@ Aquí puedes ver cada componente separado:
 </p>
 
 - [ ] Inicia el HTML y el CSS desde cero, no lo reutilices desde otro ejercicio porque terminarás teniendo un desastre.
-- [ ] Antes de comenzar a programar haz un dibujo del sitio web con todos los componentes de bootstrap que usarás. Usa todos los posibles componentes de bootstrap, la idea es que los aprendas para poder reutilizarlos durante el resto de tu vida.
+- [ ] Antes de comenzar a programar haz un dibujo del sitio web con todos los componentes de Bootstrap que usarás. Usa todos los posibles componentes de Bootstrap, la idea es que los aprendas para poder reutilizarlos durante el resto de tu vida.
 - [ ] Una vez hayas identificado todos los componentes, comienza con el navbar (desde arriba hasta abajo) e intenta adaptar los ejemplos que encuentres en internet a lo que se te pide en la imagen. No copies y pegues solamente, entiende y procesa, si no entiendes los nombres de las clases usadas en el componente, terminarás pegándote contra una pared y frustrado.
-- [ ] Usa todos los posibles [bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.0/layout/utilities/), toma el tiempo de leerlos todos porque harán tu vida 99% más fácil.
-- [ ] Los proyectos tienen que ser 100% responsive utilizando el sistema de grid de bootstrap.
+- [ ] Usa todos los posibles [Bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.0/layout/utilities/), toma el tiempo de leerlos todos porque harán tu vida 99% más fácil.
+- [ ] Los proyectos tienen que ser 100% responsive utilizando el sistema de grid de Bootstrap.
 
 ## 📒 Recursos
 
-Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
+Tienes la lección en línea y la hoja de trucos de Bootstrap en la sección de activos. También te recomendamos [videos tutoriales en Bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
 
-### ¿Que hacer si estás atascado?
+### ¿Qué hacer si estás atascado?
 
-- Limpia el caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
+- Limpia el caché (siempre actualiza con Command+Shift+R), utilizando el modo incógnito en Google Chrome. 
 - Busca soluciones en Google. 
 - Habla con otros estudiantes. 
 - Habla con desarrolladores senior que conozcas. 
@@ -60,7 +60,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 - No tengas miedo a preguntar. 
 
 
-### ¿Que **NO** hacer si estás atascado?
+### ¿Qué **NO** hacer si estás atascado?
 
 - No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
 La programación es una ciencia, los hechos son importantes y tú no tienes hechos.
