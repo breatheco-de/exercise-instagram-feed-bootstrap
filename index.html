@@ -6,23 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instagram Feed with Bootstrap</title>
-    <!-- Bootstrap Styling link -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <!-- Fontawesome link (For the icons) -->
     <script src="https://kit.fontawesome.com/072e5df971.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <style>
-        .nav-pill .nav-link{
-            color: grey;
-        }
-        .nav-pill .nav-link.active{
-            color: blue;
-        }
-    </style>
-    <!-- Navbar -->
     <nav class="navbar navbar-light bg-light py-3">
         <div class="container-fluid">
             <div class="d-flex w-100 justify-content-between">
@@ -31,7 +21,6 @@
                     <h5 class="d-inline-block fs-5">Instagram</h5>
                 </div>
                 <div class="d-flex align-right justify-content-end">
-                    <!-- Button trigger modal -->
                     <button type="button" class="btn btn-success me-2" data-bs-toggle="modal"
                         data-bs-target="#exampleModal">
                         Create a new post
@@ -56,7 +45,6 @@
         </div>
     </nav>
 
-    <!-- Modal Body -->
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -85,7 +73,6 @@
         </div>
     </div>
 
-    <!-- Toggle Grid -->
     <div class="container-fluid p-2">
         <ul class="nav nav-pill justify-content-center" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
@@ -99,62 +86,60 @@
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
-            <!-- 3 photos per row grid -->
             <div class="tab-pane fade show active overflow-hidden" id="home" role="tabpanel" aria-labelledby="home-tab">
                 <div class="row">
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://c4.wallpaperflare.com/wallpaper/229/140/44/students-boys-girls-study-wallpaper-preview.jpg" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://wallpaperaccess.com/full/1149888.jpg" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/60/1920/1200.jpg?hmac=fAMNjl4E_sG_WNUjdU39Kald5QAHQMh-_-TsIbbeDNI" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/3/5000/3333.jpg?hmac=GDjZ2uNWE3V59PkdDaOzTOuV3tPWWxJSf4fNcxu4S2g" class="img-fluid w-100" alt=""></div>
                 </div>
                 <div class="row">
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://c0.wallpaperflare.com/preview/28/977/291/smiling-woman-with-white-background.jpg" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://i.pinimg.com/originals/02/5c/ba/025cba8ce33ed90181ddc762e69141d5.jpg" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://i.pinimg.com/736x/af/03/e8/af03e8f301698efda8006b4da49ebf52.jpg" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/12/2500/1667.jpg?hmac=Pe3284luVre9ZqNzv1jMFpLihFI6lwq7TPgMSsNXw2w" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/14/2500/1667.jpg?hmac=ssQyTcZRRumHXVbQAVlXTx-MGBxm6NHWD3SryQ48G-o" class="img-fluid w-100" alt=""></div>
                 </div>
                 <div class="row">
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://wallpaperaccess.com/full/1447218.jpg" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://images7.alphacoders.com/122/1228014.png" class="img-fluid w-100" alt=""></div>
-                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://epostalnews.com/wallpaper/wallpaper/20220827/diverse-college-students-smiling-together-during-class-australian-preview.webp" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/18/2500/1667.jpg?hmac=JR0Z_jRs9rssQHZJ4b7xKF82kOj8-4Ackq75D_9Wmz8" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/17/2500/1667.jpg?hmac=HD-JrnNUZjFiP2UZQvWcKrgLoC_pc_ouUSWv8kHsJJY" class="img-fluid w-100" alt=""></div>
+                    <div class="col-4 p-1"><img style="height: 30vw; object-fit: cover;" src="https://fastly.picsum.photos/id/19/2500/1667.jpg?hmac=7epGozH4QjToGaBf_xb2HbFTXoV5o8n_cYzB7I4lt6g" class="img-fluid w-100" alt=""></div>
                 </div>
             </div>
-            <!-- 1 photo per row grid -->
             <div class="tab-pane fade overflow-hidden" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="row my-4">
                     <div class="col-6 mx-auto border rounded p-0">
                         <div class="d-flex p-2">
-                            <div class="w-100 fs-4">My Crazy dog Spark!</div>
+                            <div class="w-100 fs-4">A day at the office</div>
                             <small class="align-bottom">08/26</small>
                         </div>
-                        <img style="object-fit: cover;" src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb" class="img-fluid w-100 col-12" alt=""/>
+                        <img style="object-fit: cover;" src="https://fastly.picsum.photos/id/60/1920/1200.jpg?hmac=fAMNjl4E_sG_WNUjdU39Kald5QAHQMh-_-TsIbbeDNI" class="img-fluid w-100 col-12" alt=""/>
                         <div class="p-2">
                             <strong>204 Likes</strong>
-                            <p>This is an example of a very good photo that you can post on instagram</p>
+                            <p>We start with a little work to start the day well</p>
                         </div>
                     </div>
                 </div>
                 <div class="row my-4">
                     <div class="col-6 mx-auto border rounded p-0">
                         <div class="d-flex p-2">
-                            <div class="w-100 fs-4">The greatness of Croatia</div>
+                            <div class="w-100 fs-4">The northern beaches</div>
                             <small>04/09</small>
                         </div>
-                        <img style="object-fit: cover;" src="https://wallpaperaccess.com/full/1149888.jpg" class="img-fluid w-100 col-12" alt=""/>
+                        <img style="object-fit: cover;" src="https://fastly.picsum.photos/id/12/2500/1667.jpg?hmac=Pe3284luVre9ZqNzv1jMFpLihFI6lwq7TPgMSsNXw2w" class="img-fluid w-100 col-12" alt=""/>
                         <div class="p-2">
                             <strong>26985 Likes</strong>
-                            <p>This is an example of a very good photo that you can post on instagram</p>
+                            <p>The beaches of northern Spain are characterized by their wild beauty, imposing cliffs and cold waters.</p>
                         </div>
                     </div>
                 </div>
                 <div class="row my-4">
                     <div class="col-6 mx-auto border rounded p-0">
                         <div class="d-flex p-2">
-                            <div class="w-100 fs-4">Amazing GOAL by Cristiano!</div>
+                            <div class="w-100 fs-4">In the middle of nature</div>
                             <small>06/10</small>
                         </div>
-                        <img style="object-fit: cover;" src="https://i.pinimg.com/736x/af/03/e8/af03e8f301698efda8006b4da49ebf52.jpg" class="img-fluid w-100 col-12" alt=""/>
+                        <img style="object-fit: cover;" src="https://fastly.picsum.photos/id/18/2500/1667.jpg?hmac=JR0Z_jRs9rssQHZJ4b7xKF82kOj8-4Ackq75D_9Wmz8" class="img-fluid w-100 col-12" alt=""/>
                         <div class="p-2">
                             <strong>204 Likes</strong>
-                            <p>This is an example of a very good photo that you can post on instagram</p>
+                            <p>A green landscape is characterized by extensive grasslands, lush forests and hills covered with vegetation.</strong>
                         </div>
                     </div>
                 </div>
@@ -162,7 +147,6 @@
         </div>
     </div>
 
-    <!-- Bootstrap Functionalities link  -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
         integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
         crossorigin="anonymous"></script>
