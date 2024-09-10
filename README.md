@@ -59,7 +59,7 @@ You have the online lesson about bootstrap and the cheat sheet about bootstrap i
 - Talk to the mentors over slack.
 - Don't be afraid to ask!
 
-### What **NOT** to do if you are stuck??
+### What **NOT** to do if you are stuck?
 
 - Don't get frustrated and think you are not good at this: All the developers get stuck all the time, ask around! How do you know if you are good at something that you don't know? Coding is a science, facts matter and you have no facts. 
 
