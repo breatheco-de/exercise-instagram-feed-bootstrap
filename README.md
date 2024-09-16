@@ -20,7 +20,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
-## 📝 Instructions
+## 📝 Instructions!
 
 - [ ] Create a website that looks exactly like this one:
 
