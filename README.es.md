@@ -52,14 +52,10 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 
 ### ¿Que hacer si estás atascado?
 
-- Limpia el caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
-- Busca soluciones en Google. 
-- Habla con otros estudiantes. 
-- Habla con desarrolladores senior que conozcas. 
-- Habla con mentores en slack.
-- No tengas miedo a preguntar. 
-
-
+Puedes tambien buscar mucahs formas 
+* Primero consulta en SLACK la verdad siemrpre , va a haber alguien para apoyarte o responderte
+* Consultar en ChatGPT es una buena opcion , si las anteriores  opiniones no te sirvieron
+*  Ulltima y no menos importante hay montones de personas y tutoriales para ayudarte cuando te trabas,No es cosa de hacerlo todo tu solo 
 ### ¿Que **NO** hacer si estás atascado?
 
 - No debes frustrarte y pensar que no sirves para esto: todos los desarrolladores se quedan atascados todo el tiempo, ¡pregunta! ¿Cómo sabes si sirves o no en algo que no sabes? 
