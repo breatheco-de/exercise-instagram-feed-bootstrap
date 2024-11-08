@@ -57,7 +57,9 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 - Habla con otros estudiantes. 
 - Habla con desarrolladores senior que conozcas. 
 - Habla con mentores en slack.
-- No tengas miedo a preguntar. 
+- No tengas miedo a preguntar.
+- Pasa a otra parte del codigo si te quedas atascado.
+- Busca videos en Youtube que te puedan ayudar con el ejercicio.
 
 
 ### ¿Que **NO** hacer si estás atascado?
