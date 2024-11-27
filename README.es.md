@@ -4,7 +4,7 @@
 
 Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
-<onlyfor saas="false" withBanner="false"
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 Cómo comenzar este proyecto
 
