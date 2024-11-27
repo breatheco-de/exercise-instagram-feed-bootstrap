@@ -6,6 +6,7 @@
 	"solution": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/assets/preview.gif?raw=true",
 	"duration" : 6,
+	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "easy",
 	"technologies": ["html", "css", "layouts", "bootstrap"],	
 	"description" : "This is an improved version of the first instagram exercise, now using bootstrap.",
