@@ -4,6 +4,8 @@
 
 As a developer, you are given the task to replicate a picture as a website.
 
+<onlyfor saas="false" withBanner="false">
+
 ## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
@@ -19,6 +21,8 @@ https://github.com/4GeeksAcademy/html-hello
 **Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
+
+</onlyfor>
 
 ## 📝 Instructions
 
