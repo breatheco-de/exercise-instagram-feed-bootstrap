@@ -1,5 +1,8 @@
 {
-	"title" : "Instagram Photo Feed with Bootstrap",
+	"title" : {
+		"us": "Instagram Photo Feed with Bootstrap",
+		"es": "Instagram Photo Feed con Bootstrap"
+	},
 	"slug" : "instagram-feed-bootstrap",
 	"status": "published",
 	"translations": ["es", "en"],
@@ -8,8 +11,11 @@
 	"duration" : 6,
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "easy",
-	"technologies": ["html", "css", "layouts", "bootstrap"],	
-	"description" : "This is an improved version of the first instagram exercise, now using bootstrap.",
+	"technologies": ["html", "css", "layouts", "bootstrap"],
+	"description" : {
+		"us": "Create an Instagram photo feed using Bootstrap. This project focuses on building layouts with the Bootstrap grid system, adding modals, and creating dropdown menus. Learn to efficiently use Bootstrap’s tools to design a modern and professional web interface.",
+		"es": "Crea un feed de fotos de Instagram usando Bootstrap. Este proyecto se centra en crear diseños con el sistema de cuadrícula de Bootstrap, añadir modales y crear menús desplegables. Aprende a utilizar las herramientas de Bootstrap para diseñar una interfaz web moderna y profesional."
+	},
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
@@ -18,6 +24,9 @@
 		{ "badge": "be-dry", "points": 10 },
 		{ "badge": "abc", "points": 10 }
 	],
+	"telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=165"
+    },
     "autoPlay": false,
     "projectType": "project"
 }
