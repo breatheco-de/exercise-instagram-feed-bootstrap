@@ -1,4 +1,5 @@
 {
+	"gitpod": true,
 	"title" : {
 		"us": "Instagram Photo Feed with Bootstrap",
 		"es": "Instagram Photo Feed con Bootstrap"
