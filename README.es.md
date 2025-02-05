@@ -52,7 +52,7 @@ Aquí puedes ver cada componente separado:
 
 ## 📒 Recursos
 
-Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
+Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de activos. También te recomendamos [videos tutoriales en bootstrap de Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk), que si bien esta en inglés puedes seguir sus pasos para comprender mejor su uso.
 
 ### ¿Que hacer si estás atascado?
 
